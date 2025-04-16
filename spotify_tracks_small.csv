@@ -1,7 +1,0 @@
-
-track_name,artist_name,duration_ms,popularity,explicit
-Song A,Artist 1,210000,60,0
-Song B,Artist 2,180000,75,1
-Song C,Artist 3,200000,50,0
-Song D,Artist 4,240000,85,1
-Song E,Artist 5,220000,65,0
